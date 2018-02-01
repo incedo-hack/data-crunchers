@@ -1,0 +1,7 @@
+pandas==0.22.0
+PyMySQL==0.8.0
+scipy==1.0.0
+sklearn==0.0
+SQLAlchemy==1.2.2
+redis==2.10.6
+Flask==0.12.2
